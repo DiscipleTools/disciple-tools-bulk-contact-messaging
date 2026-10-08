@@ -76,7 +76,6 @@ class DT_Bulk_Contact_Messages_Endpoints
                 ]
             ]
         );
-
     }
 
     /**
@@ -106,6 +105,5 @@ class DT_Bulk_Contact_Messages_Endpoints
             return dt_send_bulk_twilio_message( $params );
         }
     }
-
 }
 DT_Bulk_Contact_Messages_Endpoints::instance();

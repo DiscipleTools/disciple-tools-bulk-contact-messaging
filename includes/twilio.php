@@ -116,4 +116,3 @@ function dt_send_bulk_twilio_message( $params ) {
         'success' => $success
     ];
 }
-
