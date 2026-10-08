@@ -36,7 +36,6 @@ class Disciple_Tools_Bulk_Contact_Messaging_Menu {
     public function __construct() {
 
         add_action( "admin_menu", array( $this, "register_menu" ) );
-
     } // End __construct()
 
     public function my_phpmailer_example( $phpmailer ) {
@@ -280,7 +279,6 @@ class DT_Bulk_Contact_Messaging_Tab_Twilio {
     }
 
     public function right_column() {
-
     }
 }
 
