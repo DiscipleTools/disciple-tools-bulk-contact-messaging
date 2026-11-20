@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Disciple.Tools - Bulk Contact Messaging
+ * Plugin Name: DEPRECATED - Disciple.Tools - Bulk Contact Messaging
  * Plugin URI: https://github.com/DiscipleTools/disciple-tools-bulk-contact-messaging
- * Description: Disciple.Tools - Bulk Contact Messages adds a feature to the contact lists page to send bulk messages to selected list of contacts.
+ * Description: DELETE ME - I'm a deprecated plugin
  * Text Domain: disciple-tools-bulk-contact-messaging
  * Domain Path: /languages
  * Version:  1.6
@@ -55,7 +55,7 @@ function disciple_tools_bulk_contact_messaging() {
 
     return Disciple_Tools_Bulk_Contact_Messaging::instance();
 }
-add_action( 'after_setup_theme', 'disciple_tools_bulk_contact_messaging', 20 );
+//add_action( 'after_setup_theme', 'disciple_tools_bulk_contact_messaging', 20 );
 
 /**
  * Singleton class for setting up the plugin.
