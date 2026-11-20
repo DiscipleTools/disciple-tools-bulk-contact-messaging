@@ -5,7 +5,7 @@
  * Description: DELETE ME - I'm a deprecated plugin
  * Text Domain: disciple-tools-bulk-contact-messaging
  * Domain Path: /languages
- * Version:  1.6
+ * Version:  1.7
  * Author URI: https://github.com/DiscipleTools
  * GitHub Plugin URI: https://github.com/DiscipleTools/disciple-tools-bulk-contact-messaging
  * Requires at least: 4.7.0
